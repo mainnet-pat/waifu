@@ -1,0 +1,11 @@
+{
+    "display_name": "Waifu token",
+    "version": "0.1",
+    "project_url": "https://github.com/mainnet-pat/waifu",
+    "description": "View your waifu collection in full glory.",
+    "minimum_ec_version": "3.6",
+    "package_name": "waifu",
+    "available_for": [
+        "qt"
+    ]
+}
